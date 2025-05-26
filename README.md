@@ -1,4 +1,4 @@
-# Fraud Detection
+# [Fraud Detection(]https://github.com/users/S-data-star/projects/Fraud_Detection)
 
 ### Dashboard Link : [fraud_detection.csv](https://github.com/user-attachments/files/20439460/fraud_detection.csv)
 
@@ -27,5 +27,5 @@ Our analysis uncovered three key insights:
 
 screenshot of powerbi dashboard:
 
-![Power BI Dashboard](https://user-images.githubusercontent.com/1234567/abcdefg-yourimage.png)
+
 
