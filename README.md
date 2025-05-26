@@ -12,7 +12,6 @@ Our analysis uncovered three key insights:
 3. Data visualization helped pinpoint high-risk transaction. 
 
 
-
 ### Steps followed 
 
 - Step 1 : Transform data into Power BI query, dataset is a csv file.
