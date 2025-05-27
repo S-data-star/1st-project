@@ -1,4 +1,4 @@
-# [Fraud Detection(]https://github.com/users/S-data-star/projects/Fraud_Detection)
+# [Fraud Detection](https://github.com/users/S-data-star/projects/Fraud_Detection)
 
 ### Dashboard Link : [fraud_detection.csv](https://github.com/user-attachments/files/20439460/fraud_detection.csv)
 
@@ -23,8 +23,6 @@ Our analysis uncovered three key insights:
 - Step 7 : A Area chart was created with X-axis "transaction amount(binned into groups)".Y-axis "count of transaction id" to help in illustrating the distribution of transaction amount and identify patterns
 - Step 8 : A Bar chart was added to visualize the fraud rate by merchants type, providing insight into which merchant categories were most susceptible to fradulent activity.
 - Step 9 : A Bar chart was added to visualized the fraud rate by device type, revealing which device were most vulnerable to fradulent transactions.
-
-screenshot of powerbi dashboard:
 
 
 
